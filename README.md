@@ -67,7 +67,7 @@ That main directory should be opened and from there the user will see a variety 
   * Fight sequences
   * Settings/Volume Controls
 
-**Rebecca Moroz - Frontend Developer**
+**Rebecca Moroz - Frontend Developer + Project Manager**
   * Plot
   * Script Writing
   * Sprite Designs
