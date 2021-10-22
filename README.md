@@ -1,6 +1,18 @@
 # Klassic Karole -Team 70Uhhh...:)
 
-[[_TOC_]]
+ [Klassic Karole -Team 70Uhhh...:)](#klassic-karole--team-70uhhh--)
+  * [Description](#description)
+  * [Our Motivation](#our-motivation)
+  * [Technologies](#technologies)
+    + [Language](#language)
+    + [IDE](#ide)
+    + [Executable Creation](#executable-creation)
+  * [Code Conventions](#code-conventions)
+  * [Installation](#installation)
+    + [Downloading Game Files from Site](#downloading-game-files-from-site)
+    + [Extracting Game Files](#extracting-game-files)
+    + [Running Main Game File](#running-main-game-file)
+  * [Credits](#credits)
 
 ## Description
 
