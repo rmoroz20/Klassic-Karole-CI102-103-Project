@@ -1,6 +1,6 @@
-# Klassic Karole -Team 70Uhhh...:)
+# Klassic Karole -Team 70Uhhh
 
- [Klassic Karole -Team 70Uhhh...:)](#klassic-karole--team-70uhhh--)
+ [Klassic Karole -Team 70Uhhh](#klassic-karole--team-70uhhh--)
   * [Description](#description)
   * [Our Motivation](#our-motivation)
   * [Technologies](#technologies)
